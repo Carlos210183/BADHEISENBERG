@@ -1,5 +1,6 @@
 flask
 requests
-moviepy
+moviepy==1.0.3
 gtts
 pydub
+imageio-ffmpeg
